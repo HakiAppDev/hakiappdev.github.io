@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-10-10",
+ "updated": "2026-10-14",
  "cards": [
   {
    "id": "EB05-001",
@@ -2119,6 +2119,29 @@
     "Holy Knights of God"
    ],
    "effect": "[On K.O.] You may trash 1 card from your hand: Play this Character card from your trash.\n[Activate: Main] [Once Per Turn] If this Character was played on this turn, play up to 1 {Holy Knights of God} type Character card with a cost of 6 or less from your trash.",
+   "trigger": null,
+   "block": "5"
+  },
+  {
+   "id": "ST37-001",
+   "name": "Monkey D. Luffy",
+   "category": "Leader",
+   "colors": [
+    "Red",
+    "Blue"
+   ],
+   "cost": 3,
+   "power": 5000,
+   "counter": null,
+   "attributes": [
+    "Strike"
+   ],
+   "rarity": "Leader",
+   "types": [
+    "Alabasta",
+    "Straw Hat Crew"
+   ],
+   "effect": "Under the rules of this game, you may only include {Alabasta} type cards in your deck.\n[When Attacking] Draw 2 cards. Then, at the end of your turn, trash cards from your hand until you have 7 cards in your hand.",
    "trigger": null,
    "block": "5"
   },
